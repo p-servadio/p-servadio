@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pietro Servadio
 
-<!--
-**p-servadio/p-servadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Control Systems Engineering graduate interested in modeling, simulation, control systems, and data-driven engineering applications.
 
-Here are some ideas to get you started:
+This GitHub profile will be gradually updated with academic projects, simulations, computer vision experiments, and signal processing work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Areas of Interest
+- Dynamic Modeling & Simulation
+- Control Systems
+- Machine Learning Applications
+- Computer Vision
+- Signal Processing
+
+## Tools & Technologies
+MATLAB, Simulink, Python, C++, OpenCV, TensorFlow
+
+## Contact me
+LinkedIn: www.linkedin.com/in/pietro-servadio
+
+Email: pietro.servadio1035@gmail.com
